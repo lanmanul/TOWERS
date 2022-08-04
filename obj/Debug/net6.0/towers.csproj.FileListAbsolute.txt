@@ -1,0 +1,15 @@
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\bin\Debug\net6.0\towers.exe
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\bin\Debug\net6.0\towers.deps.json
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\bin\Debug\net6.0\towers.runtimeconfig.json
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\bin\Debug\net6.0\towers.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\bin\Debug\net6.0\towers.pdb
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.csproj.AssemblyReference.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.AssemblyInfoInputs.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.AssemblyInfo.cs
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\refint\towers.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.pdb
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\towers.genruntimeconfig.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\towers\obj\Debug\net6.0\ref\towers.dll
